@@ -5,6 +5,7 @@ WELCOME TO THIS PHP LEARNING COURSE....
 Your choosen right place to learn your code.......
 
 Follow these programme files as it is to learn PHP from basic
+Use this link for more detailed exaplantion with suitable examples ==> https://www.php.net/manual/en/ 
 
 	Have a nice Day!
 	Enjoy this code..
